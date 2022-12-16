@@ -1,0 +1,15 @@
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar2C-/Z15/bin/Debug/net7.0/Z15
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar2C-/Z15/bin/Debug/net7.0/Z15.deps.json
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar2C-/Z15/bin/Debug/net7.0/Z15.runtimeconfig.json
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar2C-/Z15/bin/Debug/net7.0/Z15.dll
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar2C-/Z15/bin/Debug/net7.0/Z15.pdb
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar2C-/Z15/obj/Debug/net7.0/Z15.csproj.AssemblyReference.cache
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar2C-/Z15/obj/Debug/net7.0/Z15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar2C-/Z15/obj/Debug/net7.0/Z15.AssemblyInfoInputs.cache
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar2C-/Z15/obj/Debug/net7.0/Z15.AssemblyInfo.cs
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar2C-/Z15/obj/Debug/net7.0/Z15.csproj.CoreCompileInputs.cache
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar2C-/Z15/obj/Debug/net7.0/Z15.dll
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar2C-/Z15/obj/Debug/net7.0/refint/Z15.dll
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar2C-/Z15/obj/Debug/net7.0/Z15.pdb
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar2C-/Z15/obj/Debug/net7.0/Z15.genruntimeconfig.cache
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar2C-/Z15/obj/Debug/net7.0/ref/Z15.dll
